@@ -5,8 +5,8 @@
   <body>
     <h1> Merhaba, Ben Hüseyin Kara! 👋 </h1>
     <br>
-    <h3>🎓 Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
-    💻 Yazılım geliştirme ve bilgisayar bilimleri alanında kendimi geliştiriyorum. Altta oluşturmuş olduğum listelerle kendimi 
+    <h3>🎓 Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  </h3>
+    <h3>💻 Yazılım geliştirme ve bilgisayar bilimleri alanında kendimi geliştiriyorum. Altta oluşturmuş olduğum listelerle kendimi 
     olabildiğince kısa ve net bir şekilde tanıtmaya çalıştım, iyi okumalar. </h3>
     <br>
     <ol>
@@ -61,11 +61,11 @@
     <h4>6. Şu An Ne Yapıyorum?</h4>
     <p>Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği Fakültesi'nde eğitimime devam ediyorum. Aynı zamanda kendimi C dillerinde (C ve C#) geliştirip küçük projeler yapmaya çalışıyorum. Aynı zamanda yukarıda belirtmemekle beraber Unity motorunda ve Python dilinde de kendimi geliştirmeye çalışıyorum; sadece başlangıç seviyesi olduğu için yukarıda bulunmuyor.</p>
     <br>
-    <h2>SOSYAL MEDYA VE ULAŞIM ARAÇLARI</h2>
-  <a href="mailto:husukara.2007.201@gmail.com">
-    <img src="gmail-rozet.svg" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;husukara.2007.201@gmail.com
+  <h2>SOSYAL MEDYA VE ULAŞIM ARAÇLARI</h2>
+<p>
+  📬 <b>E-Posta:</b> <a href="mailto:husukara.2007.201@gmail.com">husukara.2007.201@gmail.com</a> <br>
+  💼 <b>LinkedIn:</b> <a href="linkedin.com/in/hüseyin-kara">linkedin-kullanici-adin</a><br>
+  📸 <b>Instagram:</b> <a href="https://www.instagram.com/ben.huseyin841?xtok=bGVxZ280a2M5d3Yx">@instagram-kullanici-adin</a>
 </p>
   </body> 
 </html>
