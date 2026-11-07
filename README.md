@@ -64,8 +64,8 @@
   <h2>SOSYAL MEDYA VE ULAŞIM ARAÇLARI</h2>
 <p>
   📬 <b>E-Posta:</b> <a href="mailto:husukara.2007.201@gmail.com">husukara.2007.201@gmail.com</a> <br>
-  💼 <b>LinkedIn:</b> <a href="linkedin.com/in/hüseyin-kara">linkedin-kullanici-adin</a><br>
-  📸 <b>Instagram:</b> <a href="https://www.instagram.com/ben.huseyin841?xtok=bGVxZ280a2M5d3Yx">@instagram-kullanici-adin</a>
+  💼 <b>LinkedIn:</b> <a href="www.linkedin.com/in/hüseyin-kara-23a74a443">linkedin-HÜSEYİN KARA</a><br>
+  📸 <b>Instagram:</b> <a href="https://www.instagram.com/ben.huseyin841?xtok=bGVxZ280a2M5d3Yx">@instagram-ben.huseyin841</a>
 </p>
   </body> 
 </html>
